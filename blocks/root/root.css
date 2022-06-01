@@ -1,0 +1,10 @@
+.root{
+   margin: 0;
+   width: 100vw;
+   --colorBackground: #ecebe8;
+   --colorMain: #242424;
+   --colorAccent: #b7c09d;
+   --colorLight: #ffffff;
+   background-color: var(--colorBackground);
+   color: var(--colorMain);
+}
