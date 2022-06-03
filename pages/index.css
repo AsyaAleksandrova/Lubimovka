@@ -2,6 +2,7 @@
 @import url(../blocks/root/root.css);
 @import url(../vendor/fonts.css);
 @import url(../blocks/share/share.css);
+@import url(../blocks/share/__picture-container/share__picture-container.css);
 @import url(../blocks/share/__picture/share__picture.css);
 @import url(../blocks/share/__text/share__text.css);
 @import url(../blocks/share/__link-container/share__link-container.css);

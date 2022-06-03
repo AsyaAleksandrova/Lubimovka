@@ -1,14 +1,11 @@
 .share__picture {
    width: 100%;
-   height: 252.22px;
+   height: 100%;
    object-fit: cover;
    object-position: center;
+   transition: all 2s linear;
 }
 
-@media screen and (min-width: 768px) {
-   .share__picture {
-      height: 404px;
-      width: calc(100% - (60px * 2));
-      margin: 0 60px;
-   }
+.share__picture:hover{
+   transform: scale(1.1);
 }
