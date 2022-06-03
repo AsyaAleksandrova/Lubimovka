@@ -1,0 +1,15 @@
+.share__link-container {
+   display: inline-block;
+   line-height: 0;
+   width: 228px;
+   height: 24px;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+@media screen and (min-width: 509px) {
+   .share__link-container {
+      transform: translateY(-24px);
+   }
+}

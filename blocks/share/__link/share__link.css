@@ -1,0 +1,18 @@
+.share__link {
+   text-decoration: none;
+   display: inline-block;
+   width: 53px;
+   height: 24px;
+
+   /** Эту часть можно вынести в общий класс кнопок **/
+   background-color: transparent;
+   border: none;
+   padding-left: 24px;
+   box-sizing: border-box;
+   font-family: Formular;
+   font-weight: 300;
+   font-size: 16px;
+   line-height: 14px;
+   color: var(--colorMain);
+   cursor: pointer;
+}
