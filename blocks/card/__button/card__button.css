@@ -1,0 +1,11 @@
+.card__button{
+    line-height: 22px;
+    font-style: normal;
+    border-top: solid 1px;
+    margin: 0;
+    width: 240px;
+    height: 55px;
+    padding-right: 17px;
+    padding-left: 18px;
+    box-sizing: border-box;
+} 

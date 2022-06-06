@@ -1,0 +1,9 @@
+.performance{
+    display: grid;
+    grid-template-rows: min-content;
+    grid-template-columns: min-content min-content;
+    justify-content: center;
+    justify-items: start;
+    column-gap: 60px;
+    row-gap: 45px;
+}

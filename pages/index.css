@@ -1,6 +1,34 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/root/root.css);
 @import url(../vendor/fonts.css);
+
+@import url(../blocks/section/__container/section__container.css);
+@import url(../blocks/section/__container/__button/button.css);
+@import url(../blocks/section/__container/__button/_left/section__button_left.css);
+@import url(../blocks/section/__container/__button/_block/section__button_block.css);
+
+@import url(../blocks/performance/performance.css);
+@import url(../blocks/performance/__container/performance__container.css);
+@import url(../blocks/performance/__header/performance__header.css);
+@import url(../blocks/performance/__summary/performance__summary.css);
+@import url(../blocks/performance/__text/performance__text.css);
+@import url(../blocks/performance/__image/performance__image.css);
+@import url(../blocks/performance/__article/performance__article.css);
+@import url(../blocks/performance/__date/performance__date.css);
+@import url(../blocks/performance/__time/performance__time.css);
+@import url(../blocks/performance/__about/performance__about.css);
+@import url(../blocks/performance/__name/performance__name.css);
+@import url(../blocks/performance/__video/performance__video.css);
+@import url(../blocks/performance/__author/performance__author.css);
+@import url(../blocks/performance/__place/performance__place.css);
+
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__container/card__container.css);
+@import url(../blocks/card/__button/card__button.css);
+
+
+
 @import url(../blocks/share/share.css);
 @import url(../blocks/share/__picture-container/share__picture-container.css);
 @import url(../blocks/share/__picture/share__picture.css);

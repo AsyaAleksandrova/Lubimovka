@@ -1,0 +1,8 @@
+.section__button_block{
+    border: solid 1px;
+    width: 240px;
+    height: 56px;
+    line-height: 22px;
+    margin: 18px 0 0 93px;
+    padding: 0 18px 0 11px;
+}

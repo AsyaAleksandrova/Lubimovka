@@ -1,0 +1,9 @@
+.card__title{
+    font-family: 'Neue Machina', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    color: var(--colorMain); 
+    margin: 21px 0 0 25px;      
+}
